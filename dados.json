@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "nome": "Ana Silva",
+      "cpf": "123.456.789-00",
+      "telefone": "(11) 91234-5678",
+      "email": "anasilva@gmail.com",
+      "carrinho": []
+    },
+    {
+      "nome": "João Silva",
+      "cpf": "123.456.789-01",
+      "telefone": "(11) 91234-5678",
+      "email": "joaosilva@gmail.com",
+      "carrinho": []
+    }
+  ],
+  "produtos": []
+}
