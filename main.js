@@ -355,6 +355,3 @@ class Produto{
 		this.preco = preco;
 	}
 }
-
-console.log(gerenciador.buscarCliente("123.456.789-01"));
-gerenciador.deletarCliente("123.456.789-01");
