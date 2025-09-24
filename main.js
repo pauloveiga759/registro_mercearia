@@ -356,10 +356,5 @@ class Produto{
 	}
 }
 
-const gerenciador = new GerenciadorClientes();
-
-gerenciador.cadastrarCliente("João Silva", "123.456.789-01", "(11) 91234-5678", "joaosilva@gmail.com");
-console.log(gerenciador.buscarCliente("123.456.789-01"));
-gerenciador.editarCliente("123.456.789-01", "telefone", "(11) 99876-5432");
 console.log(gerenciador.buscarCliente("123.456.789-01"));
 gerenciador.deletarCliente("123.456.789-01");
